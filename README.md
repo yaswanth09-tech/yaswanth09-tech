@@ -1,16 +1,24 @@
 <div align="center">
 
-# `YASWANTH NARA`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:238636&height=190&section=header&text=YASWANTH%20NARA&fontSize=42&fontColor=39d353&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20%20%E2%80%A2%20%20GENAI%20%20%E2%80%A2%20%20PYTHON&descAlignY=58&descSize=18&descColor=c9d1d9" width="100%"/>
 
-### `AI/ML` • `GENAI` • `PYTHON`
+<h2>Building Intelligent Systems</h2>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:238636&height=180&section=header&text=Building%20Intelligent%20Systems&fontSize=32&fontColor=39d353&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20GenAI%20%7C%20NLP&descAlignY=58&descColor=8b949e" width="100%"/>
+<p>
+AI / ML Developer &nbsp;•&nbsp; GenAI Enthusiast &nbsp;•&nbsp; Python Developer
+</p>
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge\&logo=github\&logoColor=39d353)](https://github.com/yaswanth09-tech)
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=39d353)](https://www.python.org/)
-[![AI/ML](https://img.shields.io/badge/AI%2FML-000000?style=for-the-badge\&logo=tensorflow\&logoColor=39d353)](https://www.tensorflow.org/)
+<p>
+<a href="https://github.com/yaswanth09-tech">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub"/>
+</a>
+<a href="https://www.python.org/">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39d353" alt="Python"/>
+</a>
+<a href="https://www.tensorflow.org/">
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-000000?style=for-the-badge&logo=tensorflow&logoColor=39d353" alt="AI ML"/>
+</a>
+</p>
 
 </div>
 
@@ -20,6 +28,7 @@
 
 ```text
 Yaswanth Nara
+│
 ├── AI / ML Developer
 ├── GenAI Enthusiast
 ├── Python Developer
@@ -28,13 +37,13 @@ Yaswanth Nara
 
 I'm passionate about building **AI-powered solutions for real-world problems**.
 
-My interests include:
+### `> interests`
 
 * 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Generative AI & LLM applications
+* 🧠 Generative AI & LLM Applications
 * 💬 Natural Language Processing
 * 👁️ Computer Vision
-* 🐍 Python development
+* 🐍 Python Development
 * 🧩 Data Structures & Algorithms
 
 > **Build → Learn → Improve → Repeat.**
@@ -47,15 +56,21 @@ My interests include:
 
 ### `LANGUAGES`
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Programming Languages"/>
+</p>
 
 ### `AI / ML`
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" alt="AI ML Technologies"/>
+</p>
 
 ### `WEB / DATABASE / TOOLS`
 
-<img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,vscode,linux" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,mysql,git,github,vscode,linux" alt="Tools and Technologies"/>
+</p>
 
 </div>
 
@@ -65,83 +80,95 @@ My interests include:
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-### `01` — Resume Classifier
+<h3>01 — Resume Classifier</h3>
 
-AI/NLP project for analyzing and classifying resumes.
+<p>
+An AI/NLP project for analyzing and classifying resumes.
+</p>
 
-**Focus**
+<b>Focus</b>
 
-```text
-NLP
-Machine Learning
-Python
-Text Classification
-```
+<p>
+<code>NLP</code>
+<code>Machine Learning</code>
+<code>Python</code>
+<code>Text Classification</code>
+</p>
 
-[→ View Repository](https://github.com/yaswanth09-tech/resume-classifier)
+<a href="https://github.com/yaswanth09-tech/resume-classifier">
+→ View Repository
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `02` — ReviewInsight
+<h3>02 — ReviewInsight</h3>
 
-Intelligent analysis of textual reviews to extract useful insights.
+<p>
+An intelligent review-analysis project focused on extracting useful insights from textual reviews.
+</p>
 
-**Focus**
+<b>Focus</b>
 
-```text
-NLP
-Sentiment Analysis
-Python
-AI
-```
+<p>
+<code>NLP</code>
+<code>Sentiment Analysis</code>
+<code>Python</code>
+<code>AI</code>
+</p>
 
-[→ View Repository](https://github.com/yaswanth09-tech/Reviewinsight)
+<a href="https://github.com/yaswanth09-tech/Reviewinsight">
+→ View Repository
+</a>
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
-### `03` — TextIQ
+<h3>03 — TextIQ</h3>
 
-A text-intelligence project exploring AI-powered text analysis.
+<p>
+A text-intelligence project exploring AI-powered processing and analysis of textual information.
+</p>
 
-**Focus**
+<b>Focus</b>
 
-```text
-NLP
-Text Processing
-Python
-AI
-```
+<p>
+<code>NLP</code>
+<code>Text Processing</code>
+<code>Python</code>
+<code>AI</code>
+</p>
 
-[→ View Repository](https://github.com/yaswanth09-tech/TextIQ)
+<a href="https://github.com/yaswanth09-tech/TextIQ">
+→ View Repository
+</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### `04` — Next AI Project
+<h3>04 — Next AI Project</h3>
 
-Currently exploring ideas around:
+<p>
+Currently exploring new ideas around practical AI applications.
+</p>
 
-```text
-Computer Vision
-Generative AI
-Intelligent Automation
-Real-world AI
-```
+<b>Exploring</b>
+
+<p>
+<code>Computer Vision</code>
+<code>Generative AI</code>
+<code>Automation</code>
+<code>Real-World AI</code>
+</p>
 
 </td>
-
 </tr>
 </table>
 
@@ -151,9 +178,9 @@ Real-world AI
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yaswanth09-tech&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=238636&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaswanth09-tech&show_icons=true&hide_border=true&bg_color=000000&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=238636&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth09-tech&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth09-tech&layout=compact&hide_border=true&bg_color=000000&title_color=39d353&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
@@ -163,9 +190,7 @@ Real-world AI
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green.svg"
-  width="100%"
-  alt="3D GitHub Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 
 </div>
 
@@ -175,9 +200,7 @@ Real-world AI
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yaswanth09-tech/yaswanth09-tech/output/github-contribution-grid-snake.svg"
-  alt="GitHub Contribution Snake"
-  width="100%"/>
+<img src="https://raw.githubusercontent.com/yaswanth09-tech/yaswanth09-tech/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -185,51 +208,63 @@ Real-world AI
 
 ## `> current_focus`
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  [01] Machine Learning                              │
-│  [02] Generative AI                                 │
-│  [03] NLP / LLM Applications                        │
-│  [04] Computer Vision                               │
-│  [05] Data Structures & Algorithms                  │
-│  [06] Building Real-World AI Applications           │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🤖<br><b>Machine Learning</b></td>
+<td align="center">🧠<br><b>Generative AI</b></td>
+<td align="center">💬<br><b>NLP / LLMs</b></td>
+</tr>
+<tr>
+<td align="center">👁️<br><b>Computer Vision</b></td>
+<td align="center">🧩<br><b>DSA</b></td>
+<td align="center">⚙️<br><b>AI Applications</b></td>
+</tr>
+</table>
+
+</div>
 
 ---
 
 ## `> learning_path`
 
+<div align="center">
+
 ```text
-                         ┌───────────────┐
-                         │    PYTHON     │
-                         └───────┬───────┘
-                                 │
-                    ┌────────────┴────────────┐
-                    ↓                         ↓
-             ┌──────────────┐         ┌──────────────┐
-             │ MACHINE      │         │ SOFTWARE     │
-             │ LEARNING     │         │ DEVELOPMENT  │
-             └──────┬───────┘         └──────────────┘
-                    │
-          ┌─────────┼─────────┐
-          ↓         ↓         ↓
-        NLP       CV       DEEP LEARNING
-          │         │
-          └────┬────┘
-               ↓
-        ┌──────────────┐
-        │  GENERATIVE  │
-        │      AI      │
-        └──────┬───────┘
-               ↓
-        ┌──────────────┐
-        │ REAL-WORLD   │
-        │ AI SYSTEMS   │
-        └──────────────┘
+                    ┌───────────────┐
+                    │    PYTHON     │
+                    └───────┬───────┘
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+              ▼                           ▼
+      ┌───────────────┐           ┌───────────────┐
+      │ MACHINE       │           │ SOFTWARE      │
+      │ LEARNING      │           │ DEVELOPMENT   │
+      └───────┬───────┘           └───────────────┘
+              │
+       ┌──────┼──────┐
+       │      │      │
+       ▼      ▼      ▼
+      NLP     CV   DEEP LEARNING
+       │      │
+       └──────┼──────┘
+              │
+              ▼
+       ┌───────────────┐
+       │  GENERATIVE   │
+       │      AI       │
+       └───────┬───────┘
+               │
+               ▼
+       ┌───────────────┐
+       │ REAL-WORLD    │
+       │ AI SYSTEMS    │
+       └───────────────┘
 ```
+
+</div>
 
 ---
 
@@ -237,7 +272,7 @@ Real-world AI
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth09-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yaswanth09-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -248,11 +283,11 @@ Real-world AI
 <div align="center">
 
 <a href="https://github.com/yaswanth09-tech">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39d353"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39d353"/>
+<a href="https://www.linkedin.com/in/yaswanth-nara-0914ab321/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -264,11 +299,11 @@ Real-world AI
 ```text
 ┌──────────────────────────────────────────────┐
 │                                              │
-│       "Build things that are useful."        │
+│          "Build things that are useful."     │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:0d1117,100:000000&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:0d1117,100:000000&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
