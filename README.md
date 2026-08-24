@@ -266,12 +266,129 @@ Currently exploring new ideas around practical AI applications.
 </div>
 
 ---
+---
 
-## `> developer_metrics`
+## `> learning_path`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yaswanth09-tech&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
+<table>
+<tr>
+<td align="center" width="20%">
+
+### 🐍
+
+**PYTHON**
+
+</td>
+
+<td align="center" width="20%">
+
+### 🧠
+
+**MACHINE<br>LEARNING**
+
+</td>
+
+<td align="center" width="20%">
+
+### 💬
+
+**NLP**
+
+</td>
+
+<td align="center" width="20%">
+
+### 👁️
+
+**COMPUTER<br>VISION**
+
+</td>
+
+<td align="center" width="20%">
+
+### ✨
+
+**GENAI**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+```text id="r3t7qm"
+PYTHON
+   │
+   ├── MACHINE LEARNING
+   │       │
+   │       ├── NLP
+   │       ├── COMPUTER VISION
+   │       └── DEEP LEARNING
+   │
+   └── GENERATIVE AI
+           │
+           ├── LLM APPLICATIONS
+           ├── AI AUTOMATION
+           └── REAL-WORLD SYSTEMS
+```
+
+</div>
+
+---
+
+## `> currently_building`
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🤖
+
+**AI SYSTEMS**
+
+Building practical intelligent applications.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🧠
+
+**GENAI**
+
+Exploring LLM-powered applications and automation.
+
+</td>
+
+<td width="33%" align="center">
+
+### 🚧
+
+**NEW PROJECTS**
+
+Turning real-world problems into software.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## `> developer_stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yaswanth09-tech&show_icons=true&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9&ring_color=238636&rank_icon=github" height="165" alt="GitHub Statistics"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaswanth09-tech&layout=compact&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&langs_count=6" height="165" alt="Top Languages"/>
 
 </div>
 
@@ -281,12 +398,18 @@ Currently exploring new ideas around practical AI applications.
 
 <div align="center">
 
+### Let's build something useful.
+
+<br>
+
 <a href="https://github.com/yaswanth09-tech">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=39d353" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39D353&labelColor=0D1117" alt="GitHub"/>
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/in/yaswanth-nara-0914ab321/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39d353" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39D353&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 
 </div>
@@ -295,14 +418,21 @@ Currently exploring new ideas around practical AI applications.
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│          "Build things that are useful."     │
-│                                              │
-└──────────────────────────────────────────────┘
+```text id="8k8s1v"
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│        BUILD  •  LEARN  •  IMPROVE  •  REPEAT       │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:0d1117,100:000000&height=120&section=footer" width="100%" alt="Footer"/>
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,50:0d1117,100:000000&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
+
