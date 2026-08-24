@@ -190,7 +190,7 @@ Currently exploring new ideas around practical AI applications.
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-green.svg" width="100%" alt="3D GitHub Contribution Graph"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D GitHub Contribution Graph"/>
 
 </div>
 
